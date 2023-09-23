@@ -1,2 +1,2 @@
 # DeepOpt-PBO
-For specific details, see DeepOpt-PBO-source-code.
+For specific details, please refer to the folder of DeepOpt-PBO-source-code.
